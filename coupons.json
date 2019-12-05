@@ -1,0 +1,16 @@
+{
+  "coupons": [
+    {
+      "title": "Скидки до 20% на все виды сна",
+      "image": "/img/black-friday.png"
+    },
+    {
+      "title": "Распродажа невероятного везения",
+      "image": "/img/sale.png"
+    },
+    {
+      "title": "Бесплатные котики",
+      "image": "/img/github.png"
+    }
+  ]
+}
